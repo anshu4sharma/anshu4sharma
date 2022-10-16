@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-anshusharma6327@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anshusharma6327@gmail.com)](mailto:anshusharma6327@gmail.com)
 
 ## Hi 👋, 
-I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about web technologies . I'm also a self proclaimed React Js Developer and internet surfer 
+I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about web technologies . I'm also a self proclaimed Mern Stack Developer and internet surfer 
 🏄‍♂️. 
 
 - 🔭 I’m currently working on React Js

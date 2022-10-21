@@ -7,7 +7,7 @@ I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about we
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Mern Stack
-- 🌱 I’m currently learning DSA in Java
+- 🌱 I’m currently learning DSA in JavaScript
 - 💬 Ask me about: tech, memes, anime
 - 😄 Pronouns: he/him
 -  ⚡ Tech Stack: Javascript, React Js, Redux, Css , Next Js , Figma ,Git , Github , Node Js , Express Js , Mongodb 

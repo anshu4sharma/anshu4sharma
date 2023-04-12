@@ -9,7 +9,7 @@ I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about we
 - 💬 Ask me about: tech, memes
 - 😄 Pronouns: he/him
 -  ⚡ Tech Stack: Javascript, React Js , Next Js , Node Js , Express Js , Mongodb , TypeScript , Redux Toolkit ,Tailwind Css
-                 React Query , RTK Query , Figma ,Git , Github  , Graphql
+                 React Query , RTK Query , Figma ,Git , Github  , Graphql , Zustand 
 
 
 ---

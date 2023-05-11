@@ -5,11 +5,10 @@ I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about we
 🏄‍♂️. 
 
 - 🔭 I’m currently working on Mern Stack
-- 🌱 I’m currently learning DSA in JavaScript and Graphql
 - 💬 Ask me about: tech, memes
 - 😄 Pronouns: he/him
 -  ⚡ Tech Stack: Javascript, React Js , Next Js , Node Js , Express Js , Mongodb , TypeScript , Redux Toolkit ,Tailwind Css
-                 React Query , RTK Query , Figma ,Git , Github  , Graphql , Zustand 
+                 React Query , RTK Query , Figma ,Git , Github  , Graphql , Zustand , React Native 
 
 
 ---

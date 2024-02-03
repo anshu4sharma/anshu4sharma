@@ -4,6 +4,8 @@
 I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about web technologies . I'm also a self proclaimed Mern Stack Developer and internet surfer 
 🏄‍♂️. 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu4sharma&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
+
 - 🔭 I’m currently working on Mern Stack
 - 💬 Ask me about: tech, memes
 - 😄 Pronouns: he/him

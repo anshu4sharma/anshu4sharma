@@ -10,8 +10,8 @@ I'm Anshu Sharma, I'm a software engineer 👨‍💻 who is passionate about we
 - 💬 Ask me about: tech, memes
 - 😄 Pronouns: he/him
 -  ⚡ Tech Stack: Javascript, React Js , Next Js , Node Js , Express Js , Mongodb , TypeScript , Redux Toolkit ,Tailwind Css
-                 React Query , RTK Query , Figma ,Git , Github  , Graphql , Zustand , React Native , Aws , Docker , Rust
+                 React Query , RTK Query , Figma ,Git , Github  , Apollo Graphql , Zustand , React Native , Aws ( S3 , IAM , Lambda , EC2 ), Docker , Redux Thunk , Redux Saga , Nginx  ( Load balancing, Reverse Porxy ) , Serverless (Framework ) , Redis ( Cache , Pubsub , Transactions )  , Bullmq , Apache Kafka , React Testing LIibrary  
 
 
 ---
-⭐️ From [AnshuSharma](https://github.com/anshu0x)
+⭐️ From [AnshuSharma](https://github.com/anshu4sharma)
